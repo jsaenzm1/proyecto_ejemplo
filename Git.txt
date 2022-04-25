@@ -1,0 +1,13 @@
+Software de control de versiones creado 2005. 
+
+Estados.
+1. Working directory
+2. Staging area
+3. Git directory
+
+Comando básico
+git init
+git status -s
+git add .
+git add nombre_archivo.ext
+git commit 
