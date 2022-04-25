@@ -12,3 +12,13 @@ git add .
 git add nombre_archivo.ext
 git commit -m "mensaje"
 git log --oneline = para ver las veces que hemos hecho commit
+git reset --hard ID = para regresar commit
+
+git config --global unser.name "nombre_usuario"
+git config --global use.email correo_electronico
+git commit -am "mensaje"
+
+git branch = para saber en que rama estamos 
+git branch nombreRama = crear una rama
+git checkout nombreRama = para cambiar de rama
+git show-branch = muestra los utlimos commit que tiene
