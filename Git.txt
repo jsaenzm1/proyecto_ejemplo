@@ -20,5 +20,17 @@ git commit -am "mensaje"
 
 git branch = para saber en que rama estamos 
 git branch nombreRama = crear una rama
-git checkout nombreRama = para cambiar de rama
+ggit remote add origin https://github.com/jsaenzm1/proyecto_ejemplo.git = para cambiar de rama
 git show-branch = muestra los utlimos commit que tiene
+
+git merge nombreRamaAUnir  -m "mensaje" = unir ramas
+git branch -m nuevoNombre = para cambiar nombre rama
+git commit --amend = modificar el mensaje del commit
+
+---------------------------------------------------------------------------------------------------
+
+GitHub
+plataforma basada en la web donde los usuarios pueden alojar repositorios Git
+
+git push -u origin main
+git tag v1 -m "mensaje"
