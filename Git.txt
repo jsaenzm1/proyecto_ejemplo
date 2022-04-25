@@ -10,4 +10,5 @@ git init
 git status -s
 git add .
 git add nombre_archivo.ext
-git commit 
+git commit -m "mensaje"
+git log --oneline = para ver las veces que hemos hecho commit
